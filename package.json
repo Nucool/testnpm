@@ -1,0 +1,23 @@
+{
+  "name": "hello-nucool",
+  "version": "1.0.0",
+  "description": "test create npm",
+  "main": "src/test-npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nucool/testnpm.git"
+  },
+  "keywords": [
+    "hello",
+    "nucool"
+  ],
+  "author": "nucool",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nucool/testnpm/issues"
+  },
+  "homepage": "https://github.com/Nucool/testnpm#readme"
+}
