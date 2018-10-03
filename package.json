@@ -1,6 +1,6 @@
 {
   "name": "hello-nucool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test create npm",
   "main": "src/test-npm.js",
   "scripts": {
